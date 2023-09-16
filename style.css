@@ -1,0 +1,8 @@
+#mylabel{
+    border: 1px solid red;
+    background-color: antiquewhite;
+    padding: 50px 50px;
+    font-size: 40px;
+    border-radius: 8px;
+    margin-top: 80px;
+}
